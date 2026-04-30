@@ -1,1 +1,2 @@
 Hello Git
+this is line in second branch
